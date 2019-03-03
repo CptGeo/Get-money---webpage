@@ -1,6 +1,5 @@
 var cards = document.querySelectorAll('.cards__space');
 var videos = document.querySelectorAll('.background__video');
-var col= document.querySelector('.cards');
 
 
 
